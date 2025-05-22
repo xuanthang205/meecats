@@ -1,0 +1,51 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Clash Display', sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+button,
+input {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    --grid-gutter-x: 0px;
+}
+
+.btn {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 186px;
+    height: 60px;
+    padding: 22px 34px;
+    border: none;
+
+    border-radius: 54px;
+    background: #17e3a6;
+
+    color: #000;
+    font-family: 'Aeonik Pro TRIAL', sans-serif;
+    font-size: 2.2rem;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}

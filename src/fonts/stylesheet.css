@@ -1,0 +1,249 @@
+/* Clash display */
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/ClashDisplay-Bold.woff2') format('woff2'),
+        url('Clash-display/ClashDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/ClashDisplay-Extralight.woff2') format('woff2'),
+        url('Clash-display/ClashDisplay-Extralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/ClashDisplay-Light.woff2') format('woff2'),
+        url('Clash-display/ClashDisplay-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/ClashDisplay-Semibold.woff2') format('woff2'),
+        url('Clash-display/ClashDisplay-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/ClashDisplay-Regular.woff2') format('woff2'),
+        url('Clash-display/ClashDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/ClashDisplay-Medium.woff2') format('woff2'),
+        url('Clash-display/ClashDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('Clash-display/false.woff2') format('woff2'),
+        url('Clash-display/false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display Variable';
+    src: url('Clash-display/ClashDisplayVariable-Bold.woff2') format('woff2'),
+        url('Clash-display/ClashDisplayVariable-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display Variable';
+    src: url('Clash-display/ClashDisplayVariable-Bold.woff2') format('woff2'),
+        url('Clash-display/ClashDisplayVariable-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display Variable';
+    src: url('Clash-display/ClashDisplayVariable-Bold.woff2') format('woff2'),
+        url('Clash-display/ClashDisplayVariable-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+/* // Clash display */
+
+/* Aeonik */
+@font-face {
+    font-family: 'Aeonik Pro TRIAL';
+    src: url('Aeonik/AeonikProTRIAL-Regular.woff2') format('woff2'),
+        url('Aeonik/AeonikProTRIAL-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik Pro TRIAL';
+    src: url('Aeonik/AeonikProTRIAL-RegularItalic.woff2') format('woff2'),
+        url('Aeonik/AeonikProTRIAL-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik Pro TRIAL';
+    src: url('Aeonik/AeonikProTRIAL-Light.woff2') format('woff2'),
+        url('Aeonik/AeonikProTRIAL-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik Pro TRIAL';
+    src: url('Aeonik/AeonikProTRIAL-BoldItalic.woff2') format('woff2'),
+        url('Aeonik/AeonikProTRIAL-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik Pro TRIAL';
+    src: url('Aeonik/AeonikProTRIAL-LightItalic.woff2') format('woff2'),
+        url('Aeonik/AeonikProTRIAL-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik Pro TRIAL';
+    src: url('Aeonik/AeonikProTRIAL-Bold.woff2') format('woff2'),
+        url('Aeonik/AeonikProTRIAL-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+/* // Aeonik */
+
+
+
