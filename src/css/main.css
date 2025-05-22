@@ -1203,6 +1203,11 @@ a {
 .container {
   --grid-gutter-x: 0px;
 }
+@media (max-width: 575.98px) {
+  .container {
+    --grid-gutter-x: 30px;
+  }
+}
 
 .btn {
   flex-shrink: 0;
@@ -1263,7 +1268,6 @@ a {
     width: initial;
     flex-direction: column;
     align-items: flex-start;
-    padding: 20px 0;
     background-color: #000;
     transform: translateX(-100%);
     transition: transform 0.3s ease-in-out;
@@ -1321,7 +1325,7 @@ a {
   line-height: 100%;
 }
 .header .icon_back {
-  padding-left: 20px;
+  padding: 20px 20px 10px 20px;
 }
 .header .nav_list,
 .header .nav_item {
@@ -1333,7 +1337,7 @@ a {
 @media (max-width: 575.98px) {
   .header .nav_list {
     flex-direction: column;
-    margin-top: 30px;
+    margin-top: 15px;
     margin-left: 0;
   }
 }
